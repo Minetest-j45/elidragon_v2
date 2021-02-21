@@ -1,4 +1,4 @@
-Elidragon v2 Server software documentation
+# **Elidragon v2 Server software documentation**
 ------------------------------------------
 
 This repositiory contains everything required to run the Elidragon v2  Minetest server. Elidragon v2 is the sequel to Elidragon Skyblock and is reusing Skycraft code to a large degree.
