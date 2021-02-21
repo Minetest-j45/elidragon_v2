@@ -56,9 +56,9 @@ Creating new mods
 If you create a new mod, create a folder mods/elidragon_<name>. It should have a mod.conf containing its name, a small description and your name. It should depend on the elidragon mod and all other mods it needs. Any dependenency (that is not already in the repo or in MineClone2) needs to be added as submodule. It should add a <name> table to the elidragon namespace e.g.
 local testing = {}
 
-function testing.test()
-    print("test")
-end
+function testing.test()<br>
+    print("test")<br>
+end<br>
 
 elidragon.testing = testing
 
